@@ -9,7 +9,7 @@ Here are some ideas to get you started:
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Borhan Uddin](https://borhan-uddin-portfolio.web.app/)
+### Hi there 👋 I'm [Mehedi Hassan Sagor]
 > Full Stack Web Developer (MERN)
 
 <div>
@@ -62,7 +62,7 @@ Tools:
 <a href="mailto:borhan015@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-borhan015@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-⭐️ From [@borhanshuvo](https://github.com/borhanshuvo)
+⭐️ 
 
 
 - 🔭 I’m currently working on ...
