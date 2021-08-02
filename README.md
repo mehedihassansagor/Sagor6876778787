@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**Sagor6876778787/Sagor6876778787** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sagor/Sagor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 <p align="center">
