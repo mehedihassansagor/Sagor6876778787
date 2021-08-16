@@ -54,7 +54,7 @@ Tools:
 <!--  <a href="https://borhan-uddin-portfolio.web.app" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Portfolio-https://borhan_uddin_portfolio.web.app-blue?style=flat&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/mehedi-hassan-sagor/" target="_blank">
 <!--  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@borhanuddin-blue?style=flat&logo=linkedin"></a> -->
-<a href="mehedihassansagor1641998@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mehedihassansagor1641998@gmail.com-blue?style=flat&logo=gmail"></a>
+<a href="mehedihassansagor01@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mehedihassansagor01@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
 ⭐️ 
